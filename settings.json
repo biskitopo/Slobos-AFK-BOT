@@ -8,7 +8,7 @@
   "server": {
     "ip": "Biskit_SMP.aternos.me",
     "port": 55171,
-    "version": "1.21.1"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
